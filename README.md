@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 👋 Olá! Eu sou o João Paulo
 
 👨‍🏫 Professor de Back-end, Ciência de Dados e Banco de Dados
-
 💡 Focado em ensino prático, desenvolvimento de sistemas e análise de dados
 
 ---
